@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\bin\Debug\net6.0\Example_001_HellowConcole.exe
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\bin\Debug\net6.0\Example_001_HellowConcole.deps.json
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\bin\Debug\net6.0\Example_001_HellowConcole.runtimeconfig.json
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\bin\Debug\net6.0\Example_001_HellowConcole.dll
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\bin\Debug\net6.0\Example_001_HellowConcole.pdb
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.dll
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\refint\Example_001_HellowConcole.dll
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.pdb
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\Example_001_HellowConcole.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Examples\Example_001_HellowConcole\obj\Debug\net6.0\ref\Example_001_HellowConcole.dll
